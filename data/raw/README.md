@@ -1,0 +1,5 @@
+# Tabular dataset for AI-based vector-borne disease prediction
+dataset link: https://data.mendeley.com/datasets/cf49v47z4c/1
+
+# Description
+This dataset gathers clinical information about patients diagnosed with malaria, dengue, yellow fever, and typhoid fever, as well as patients excluded from these diseases. The data was collected from the health districts of DO and DAFRA, located in the Hauts-Bassins region of Burkina Faso. The dataset includes 300 records. Among the consultations recorded, 150 are from DAFRA and 150 from DO. The data was preprocessed, and sensitive information such as name, surname, or place of birth was removed. The original form contained 115 questions, but only 109 were retained. The data includes two CSV files: the first, "data.csv," contains the data, and the second, "description.xls," contains the attribute descriptions. Some attributes are present in the description but not in the data, as they were removed due to lack of information.
